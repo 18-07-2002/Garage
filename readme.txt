@@ -1,4 +1,4 @@
-Garage App is an Android application that allows the user to create a list of vehicles they own or wish to purchase. The app also provides login/signup support for the user. The user can add a new car, select the vehicle manufacturer, and the vehicle model. The app fetches the list of vehicle makes and models from the US Department of Transportation's open API. The user can add an image for the car from the phone gallery or camera and delete the car. The app saves all the data locally using a local database (Room).
+RideVault App is an Android application that allows the user to create a list of vehicles they own or wish to purchase. The app also provides login/signup support for the user. The user can add a new car, select the vehicle manufacturer, and the vehicle model. The app fetches the list of vehicle makes and models from the US Department of Transportation's open API. The user can add an image for the car from the phone gallery or camera and delete the car. The app saves all the data locally using a local database (Room).
 
 Design Choices and Decisions:
 
